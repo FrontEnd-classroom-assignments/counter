@@ -2,7 +2,6 @@
 Create a React counter app with three buttons that let the user control the counter value.
 
 **What You Already Know**
-You’ve already learned how to:
 - Set up a basic React component
 - Use `useState` to manage a counter
 - Add an Increase button to update the counter
