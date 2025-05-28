@@ -6,14 +6,12 @@ Create a React counter app with three buttons that let the user control the coun
 - Use `useState` to manage a counter
 - Add an Increase button to update the counter
 
+## Task
 Build a new counter app that includes the following functionality:
-✅ Requirements
-Three Buttons:
 
+Requirements Three Buttons:
 🔼 Increase – adds 1 to the counter
-
 🔽 Decrease – subtracts 1 from the counter
-
 🔁 Reset – sets the counter back to 0
 
 Display the Counter:
