@@ -7,17 +7,14 @@ Luo React-laskurisovellus, jossa on kolme painiketta, joiden avulla käyttäjä 
 - Lisää "Kasvata"-painike laskurin päivittämiseksi
 
 ## Tehtävä
-Rakenna uusi laskurisovellus, joka sisältää seuraavat toiminnot:
-
-### Vaatimukset
-Laskurissa tulee olla seuraavat kolme painiketta:
+Rakenna uusi laskurisovellus. Laskurissa tulee olla seuraavat kolme painiketta:
 
 - **Kasvata** – Lisää laskurin arvoa yhdellä.
 - **Vähennä** – Vähentää laskurin arvoa yhdellä.
 - **Nollaa** – Palauttaa laskurin arvon nollaan.
 
 Näytä laskurin arvo:
-Nykyinen arvo tulee näkyä selkeästi ja päivittyä heti, kun painikkeita painetaan.
+Laskurin nykyinen arvo tulee näkyä selkeästi ja päivittyä heti, kun painikkeita painetaan.
 
 ### Bonus
 Estä laskurin arvo menemästä alle nollan.
