@@ -1,3 +1,5 @@
+[Suomenkielinen tehtävänanto (README.fi.md)](README.fi.md)
+
 # Counter
 Create a React counter app with three buttons that let the user control the counter value.
 
